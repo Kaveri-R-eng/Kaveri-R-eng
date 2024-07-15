@@ -5,7 +5,7 @@
 - 📫 How to reach me my emailid *rkaveri704@gmail.com* or 6363834462...
 - 😄 Pronouns: call me by name or _KV__...
 - ⚡ Fun fact:
-- New_Skill: learning AI and ML
+- New_Skill: learning AI and ML in collage
 
 
 Kaveri-R-eng/Kaveri-R-eng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
