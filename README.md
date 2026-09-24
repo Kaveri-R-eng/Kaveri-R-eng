@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kaveri-R-eng
-- 👀 I’m interested in Javaprogramming and Data Science
-- 🌱 I’m currently learning . in SJ(Govt.) Polytechnic..
+- 👀 I’m interested in Networking and Database .
+- currently pursuing engineering in BIT collage,VV puram.
+- 🌱 I completed my diploma  in SJ(Govt.) Polytechnic..
 - 💞️ I’m looking to collaborate on .Google and Microsft..
 - 📫 How to reach me my emailid *rkaveri704@gmail.com* or 6363834462...
 - 😄 Pronouns: call me by name or _KV__...
